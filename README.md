@@ -4,7 +4,7 @@
 
 ## The idea
 
-Frontend bugs — broken buttons, dead links, silent console errors — are tedious to find by hand and expensive to catch late. This project is an agent that autonomously explores a website the way a QA tester would: clicking around, following links, and flagging what's actually broken, without a human driving the browser.
+Frontend bugs, broken buttons, dead links, silent console errors, are tedious to find by hand and expensive to catch late. This project is an agent that autonomously explores a website the way a QA tester would: clicking around, following links, and flagging what's actually broken, without a human driving the browser.
 
 ## Scope of this version (V1)
 
